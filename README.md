@@ -41,7 +41,7 @@
    ```
 3. Package the compiled classes into a JAR file:
    ```bash
-   jar cfe FileEncryptorApp.jar FileEncryptorDecryptor *.class
+   jar cfe FileEncryptorDecryptor.jar FileEncryptorDecryptor *.class
    java -jar FileEncryptorDecryptorApp.jar
    ```
 ### Running the Application
