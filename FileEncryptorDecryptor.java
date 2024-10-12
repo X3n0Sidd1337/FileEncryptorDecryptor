@@ -40,9 +40,9 @@
  * - Decrypted file (restored to original): `document.txt`
  * 
  * How to run:
- * - Compile the program: javac FileEncryptor.java
- * - Package it as a runnable JAR: jar cfe FileEncryptorApp.jar FileEncryptor *.class
- * - Run the JAR file: java -jar FileEncryptorApp.jar
+ * - Compile the program: javac FileEncryptorDecryptor.java
+ * - Package it as a runnable JAR: jar cfe FileEncryptorDecryptor.jar FileEncryptorDecryptor *.class
+ * - Run the JAR file: java -jar FileEncryptorDecryptor.jar
  * 
  * Dependencies:
  * - None (pure Java).
