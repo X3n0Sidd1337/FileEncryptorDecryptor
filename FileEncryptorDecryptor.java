@@ -41,7 +41,7 @@
  * 
  * How to run:
  * - Compile the program: javac FileEncryptorDecryptor.java
- * - Package it as a runnable JAR: jar cfe FileEncryptorDecryptor.jar FileEncryptorDecryptor *.class
+ * - Package it as a runnable JAR: jar cfe FileEncryptorDecryptor.jar FileEncryptorDecryptor FileEncryptorDecryptor*.class
  * - Run the JAR file: java -jar FileEncryptorDecryptor.jar
  * 
  * Dependencies:
